@@ -1,0 +1,9 @@
+{
+  "id": "copy-as-rich-url",
+  "name": "Copy as Rich URL",
+  "version": "0.1.0",
+  "minAppVersion": "1.0.0",
+  "description": "Copy current note as a rich hyperlink (title + obsidian:// URL) to clipboard. Pastes as a single clickable link in rich-text editors.",
+  "author": "brianling",
+  "isDesktopOnly": false
+}
